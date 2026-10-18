@@ -36,7 +36,6 @@ src/            VHDL sources (top level + modules)
 src/drafts/     Experimental / unused module versions
 constraints/    Nexys4 pin constraints (.xdc)
 ip/             Clocking Wizard IP configuration (.xci)
-docs/           Project report (PDF)
 images/         Screenshots, schematics and utilisation reports
 ```
 
@@ -67,8 +66,6 @@ images/         Screenshots, schematics and utilisation reports
 | ![Utilisation](images/resource_utilization.png) | ![Summary](images/project_summary.png) |
 
 ![Gameplay](images/mid_stage.jpeg)
-
-The full write-up is in [docs/HungrySnake_Report.pdf](docs/HungrySnake_Report.pdf).
 
 ## Acknowledgements
 
