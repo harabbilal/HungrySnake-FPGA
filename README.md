@@ -2,8 +2,6 @@
 
 A Snake-style game written in **VHDL** for the **Digilent Nexys 4** (Xilinx Artix-7) and built in **Xilinx Vivado**. The game draws on a **640×480 VGA display** at 60 Hz, reads the on-board push buttons, and shows the score on the **7-segment display**.
 
-Built for the *PrASIC* lab course at FAU Erlangen-Nürnberg (2025).
-
 ![Game start](images/game_start.jpeg)
 
 ## Features
